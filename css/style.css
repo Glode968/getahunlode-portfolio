@@ -1204,7 +1204,7 @@ body.light hr.separator {
 }
 
 .contact .contactform .output_message.success {
-  background: #28a745;
+  background: #1877F2;
 }
 
 .contact .contactform .output_message.success:before {
@@ -1863,4 +1863,5 @@ body.blog-post article img {
     margin-top: 35px !important;
   }
 }
+
 
